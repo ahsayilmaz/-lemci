@@ -1,4 +1,4 @@
-# İşlemci
+# Nand ve Verilog
 
 -Bu klasör içerisinde bulacağınız "nand.txt" dosyasının içindekileri kopyalayın
 
