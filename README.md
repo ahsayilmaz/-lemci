@@ -1,4 +1,4 @@
-# Nand ve Verilog
+# Nandgame ilerlemeye erişim
 
 -Bu klasör içerisinde bulacağınız "nand.txt" dosyasının içindekileri kopyalayın
 
